@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 24px;
+  }
+
 body {
   font-family: 'Yu Gothic', sans-serif;
   background: #fffefc;
